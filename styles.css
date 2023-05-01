@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+.form-group{
+	
+}
+input[type="text"]{
+	border:1px solid black;
+	size:50;
+	
+}
+button[type="button"]{
+    background-color: dodgerblue;
+    
+    
+
+}
